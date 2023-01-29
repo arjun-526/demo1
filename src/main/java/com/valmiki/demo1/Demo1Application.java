@@ -11,6 +11,6 @@ public class Demo1Application {
 	}
 
 public String getValues(){
-	return "Hello World";
+	return "Get Values";
 }
 }
